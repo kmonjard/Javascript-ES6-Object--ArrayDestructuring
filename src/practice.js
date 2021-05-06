@@ -18,3 +18,7 @@ const cars = [
 ];
 
 export default cars;
+
+
+
+// See Destructuring assignment on - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
